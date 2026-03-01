@@ -3,37 +3,39 @@ site_description: Auburn University Department of Music Faculty Handbook 2025-20
 
 theme:
   name: material
-  language: en                  # WCAG: sets lang attribute for screen readers
+  language: en
   features:
-    - navigation.sections       # Group nav into sections
-    - navigation.top            # Back-to-top button
-    - navigation.tracking       # URL updates as you scroll
-    - toc.follow                # TOC sidebar follows scroll position
-    - toc.integrate             # Integrates TOC into left navigation sidebar
-    - search.highlight          # Highlights search terms on page
-    - search.suggest            # Search autocomplete
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+    - search.highlight
+    - search.suggest
   palette:
-    # WCAG: offer light/dark toggle for users with visual sensitivity
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: auburn-light
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: auburn-dark
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
+extra_css:
+  - stylesheets/auburn.css
+
 markdown_extensions:
   - toc:
-      permalink: true           # Adds clickable anchor to each heading
-      permalink_title: "Link to this section"  # WCAG: descriptive anchor label
-      toc_depth: 3              # Show h2 (major sections) and h3 (subsections)
+      permalink: true
+      permalink_title: "Link to this section"
+      toc_depth: 3
   - attr_list
   - md_in_html
-  - abbr                        # WCAG: allows abbreviation expansion (FERPA, MUAP, etc.)
+  - abbr
 
 plugins:
   - search:
-      lang: en                  # WCAG: language-aware search
+      lang: en
