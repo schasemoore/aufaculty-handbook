@@ -2,27 +2,26 @@
 title: "Faculty Handbook 2025-2026"
 ---
 
-# Auburn University Department of Music — Faculty Handbook 2025–2026
 
-# Department of Music Policy and Procedures
+## Department of Music Policy and Procedures
 
 Adopted by Faculty June 17, 2021
 
-## Departmental Mission
+### Departmental Mission
 
 The purpose of the Music Department at Auburn University is to (1) Provide an exceptional education and musical experience for music majors and non-music majors alike; (2) Assist in the development and attainment of positive opportunities for students; (3) Bring world-class performances to Auburn University campus performance venues, including the Gogue Performing Arts Center; and (4) Offer cultural enrichment on local and global stages.
 
 The Department Strategic Plan and Code of Ethics also provide direction and goals for the conduct of teaching, service, research, creative activity, scholarship, and collegiality for the Department.
 
-## Provision for Amending Policy and Procedure Document
+### Provision for Amending Policy and Procedure Document
 
 Any voting faculty member of the Department of Music may propose an amendment to the "Department of Music Policy and Procedure Document." The amendment will be submitted in writing to the Department Chair (DC) who will distribute copies to all regularly voting faculty and call a meeting to consider the proposal after the amendment has been distributed. Adoption of the amendment will require a two-thirds majority of the voting faculty. Amendments will not be considered during the summer semester. Final approval of all amendments is subject to review by the DC and Dean.
 
-## Code of Ethics
+### Code of Ethics
 
 In case of dispute between this Policy and Procedure Document, the Department Code of Ethics, College of Liberal Arts Policy, or University Policies regarding Faculty, Employees, and Students the University Policy shall be adhered to.
 
-## Faculty Governance
+### Faculty Governance
 
 1.  Departmental Faculty Meetings
 
@@ -48,7 +47,7 @@ In case of dispute between this Policy and Procedure Document, the Department Co
 
 > Criteria for membership on the graduate faculty are determined by the Department of Music with the approval of the Graduate Council. Departmental meetings for this membership will be held as circumstances may require, at a date and time to be set by the DC. A meeting may be called by the DC in response to a request by a minimum of three graduate faculty members. The DC will circulate the agenda no later than two days before the meeting.
 
-## Administration and Administrative Service Appointments
+### Administration and Administrative Service Appointments
 
 4.  Department Chair (DC)
 
@@ -114,11 +113,11 @@ In case of dispute between this Policy and Procedure Document, the Department Co
 
 > Coordinator of Brass, Keyboard, Percussion, String, Voice, Woodwind, Core: responsible for oversight of the multi-section courses of Appreciation of Music (and any other core courses), Commercial, Composition/History/Theory
 
-## Committees
+### Committees
 
 > Standing and Other Committees of the Department of Music are listed and updated in the Department Bylaws Section C. Departmental Committees.
 
-## Auditions, Juries, Exams, and Events
+### Auditions, Juries, Exams, and Events
 
 9.  Audition and Jury Committees
 
@@ -172,7 +171,7 @@ In case of dispute between this Policy and Procedure Document, the Department Co
 
 > We respect an applied student\'s prerogative to request instruction from any Department instructor(s) of their choice, when there are two or more instructors for the applied instrument, with the approval of the Department Chair.
 
-## Appointment
+### Appointment
 
 Guidelines and requirements relating to Faculty Appointments for Non-Tenure and Tenure- Track Faculty are provided in the *Auburn University Faculty Handbook* (Faculty Handbook). Appointment guidelines that are specific to the Department of Music are contained in this Section. In the event of a conflict between this Policy and Procedure Document and the University Faculty Handbook, the guidelines within the Faculty Handbook shall prevail.
 
@@ -224,7 +223,7 @@ For the purpose of this section, the following definitions shall apply:
 
 8.  Being knowledgeable of all university promotion and tenure guidelines
 
-## Promotion
+### Promotion
 
 > Guidelines and requirements relating to Promotion and Tenure of Tenure-Track Faculty are provided in the *Auburn University Faculty Handbook* (Faculty Handbook). Promotion guidelines that are specific to the Department of Music are contained in this Section. In the event of a conflict between this Policy and Procedure document and the University Faculty Handbook, the guidelines within the Faculty Handbook shall prevail.
 >
@@ -410,7 +409,7 @@ For the purpose of this section, the following definitions shall apply:
 
 9.  Outreach activities are an integral part of the Department mission and will also be considered for promotion and tenure when appropriate.
 
-## Tenure
+### Tenure
 
 > In addition to the policy established in Section 3.6: Promotion and Tenure of Tenure-Track Faculty of the Faculty Handbook, the following guidelines are in place for the Department.
 
@@ -422,7 +421,7 @@ For the purpose of this section, the following definitions shall apply:
 
 13. All Department tenured faculty should be involved in the peer review process. Probationary faculty, during their first three years, should expect one announced class visit per year from a tenured faculty member identified by the DC.
 
-## Evaluation of Faculty
+### Evaluation of Faculty
 
 > The Annual, Third-Year, Post-Tenure, and Administrative Review process is conducted in accordance with *Section 3.7: Evaluations and Reviews* of the Faculty Handbook.
 >
@@ -450,7 +449,7 @@ For the purpose of this section, the following definitions shall apply:
 
 6.  A short, written report of the faculty review and discussion will be given to the DC and to the probationary faculty member as soon as possible; the contents of these reports (and any responses to them) will be discussed by the DC with the faculty member during their Annual Review for the Third-Year Review.
 
-## Assignment of Duties
+### Assignment of Duties
 
 7.  Teaching and Service
 
@@ -462,15 +461,15 @@ For the purpose of this section, the following definitions shall apply:
 
     Faculty on nine-month appointments who wish to teach during the summer semester may apply for such assignments to the DC. The extent of such assignments will be determined by the departmental budget for the summer semester allocated by the central administration.
 
-# Department of Music Bylaws
+## Department of Music Bylaws
 
 Adopted by Faculty June 17, 2021 (rev. 11/27 2023)
 
-## Introduction
+### Introduction
 
 > The general business of the Department of Music shall be conducted in compliance with these bylaws. General duties, responsibilities, and rights of the faculty are specified in the Auburn University Faculty Handbook. The rules in that Handbook take precedence over the following bylaws.
 
-## A. Faculty
+### A. Faculty
 
 > 1\. **Membership**: Voting and non-voting faculty constitute the members of the department.
 >
@@ -480,7 +479,7 @@ Adopted by Faculty June 17, 2021 (rev. 11/27 2023)
 >
 > 2\. **Duties**: Duties of the faculty may consist of teaching, research/creative work, service, administration, and outreach as specified in the Auburn University Faculty Handbook.
 
-## B. Department Chair
+### B. Department Chair
 
 > 1\. **Eligibility and Term of Office**:
 >
@@ -520,7 +519,7 @@ Adopted by Faculty June 17, 2021 (rev. 11/27 2023)
 >
 > a\. When the Department Chair returns to their regular faculty position following the administrative appointment, the step-down procedure included in the Auburn University Faculty Handbook will be followed: Chapter 3 Section 3.3.6: Policy on Administrator Return to Faculty Position.
 
-## C. Departmental Committees
+### C. Departmental Committees
 
 1.  **Standing Committees**:
 
@@ -564,7 +563,7 @@ Adopted by Faculty June 17, 2021 (rev. 11/27 2023)
 
     a.  Ad-hoc committees are appointed by the Chair to undertake specific tasks and provide recommendations to the faculty. Ad-hoc committees will serve until the committee's work is completed and its recommendations have been forwarded to the faculty.
 
-## D. Faculty Meetings
+### D. Faculty Meetings
 
 > 1\. **Meeting Schedule**:
 >
@@ -586,15 +585,15 @@ Adopted by Faculty June 17, 2021 (rev. 11/27 2023)
 >
 > 3\. **Minutes**: Minutes from department meetings are available to faculty on the Department of Music Faculty Resources Site. Approved minutes of all meetings will be kept in the department office. Because the minutes may contain information on personnel matters, the file shall not be available to other persons except by faculty vote.
 
-## E. Approval of Or Changes to the Bylaws
+### E. Approval of Or Changes to the Bylaws
 
 1.  **Approval Criterion**: A new article for, or an amendment to the existing articles of the bylaws shall be adopted by a two-thirds majority of the voting faculty.
 
 2.  **Voting Procedure**: Any proposed change to the bylaws shall be proposed in one meeting and discussed and voted on at a subsequent meeting. These two processes shall not be condensed into a single meeting.
 
-# Additional Departmental Procedures
+## Additional Departmental Procedures
 
-## Faculty Travel
+### Faculty Travel
 
 Faculty wishing to engage in travel with funding from the department should complete the following steps:
 
@@ -614,7 +613,7 @@ Faculty wishing to engage in travel with funding from the department should comp
 
 8.  The Business admin will create a Travel Voucher from the receipts submitted. When notified, review and approve the completed Travel Voucher for reimbursement.
 
-## Purchasing Procedures
+### Purchasing Procedures
 
 Musical Instruments/Gear/Equipment/Supplies
 
@@ -648,7 +647,7 @@ Musical Instruments/Gear/Equipment/Supplies
 
     -   The librarian will deliver your music within 48 hours of its arrival to the department.
 
-## Scheduling a Guest Artist/Clinician
+### Scheduling a Guest Artist/Clinician
 
 1.  Obtain approval from the Department Chair for all arrangements: finances, scheduling, etc.
 
@@ -662,7 +661,7 @@ Musical Instruments/Gear/Equipment/Supplies
 
 6.  The guest will not be paid during their visit. Auburn requires completion of the service(s) provided before processing payment.
 
-## Hosting an event involving minors (as participants)
+### Hosting an event involving minors (as participants)
 
 1.  Obtain approval from the Department Chair for all arrangements: finances, scheduling, etc.
 
@@ -674,7 +673,7 @@ Musical Instruments/Gear/Equipment/Supplies
 
 5.  If the event impacts regular department operations or schedules, send an informational email to the music office for forwarding to the entire faculty.
 
-## Interactions with Parents -- FERPA (Family Educational Rights and Privacy Act)
+### Interactions with Parents -- FERPA (Family Educational Rights and Privacy Act)
 
 1.  If a parent calls or emails and asks for information about a student's academic progress, grades, or other educational information, advise them of our [FERPA policy.](https://auburnpub.cfmnetwork.com/B.aspx?BookId=11858&PageId=459189)
 
@@ -684,37 +683,37 @@ Musical Instruments/Gear/Equipment/Supplies
 
 > The [Auburn Family Portal](https://familyportal.auburn.edu/users/sign_in) requires student approval and allows Parents to access their student's information.
 
-# Safety, Health and Wellness Resources
+## Safety, Health and Wellness Resources
 
-## Campus Security
+### Campus Security
 
 334-844-8888
 
-## City of Auburn Public Safety
+### City of Auburn Public Safety
 
 334-501-3110
 
-## Comprehensive listing of resources for Faculty, Staff, & Students
+### Comprehensive listing of resources for Faculty, Staff, & Students
 
 This is an exhaustive list of resources and procedures -- please familiarize yourself with the range of services available:
 
 <https://www.auburn.edu/administration/campus-safety/resources.php>
 
-## AU Medical Clinic
+### AU Medical Clinic
 
 <https://cws.auburn.edu/aumc/>
 
-## Healthy Tigers
+### Healthy Tigers
 
 [Healthy Tigers](https://www.auburn.edu/administration/human_resources/benefits/healthy-tigers/index.php) is Auburn University\'s employee wellness program. Eligible employees of Auburn University can receive a discount of up to \$600 annually if they and their spouse/sponsored adult dependent\* (SAD) both participate in the Healthy Tigers screening program and complete all program requirements (\$300 for the employee and \$300 for the spouse/SAD\*).
 
-## Recreation and Wellness
+### Recreation and Wellness
 
 [Recreation and Wellness](https://www.recwellness.auburn.edu/wellness) provides fitness, wellness, sports, and outdoor recreation opportunities for Auburn University students,
 
 faculty, and staff.
 
-## Students in Distress
+### Students in Distress
 
 The following are valuable resources if you learn about or observe concerning student behavior, (depression, unusual mood swings, sudden changes of behavior, concerning outbursts, etc.). You should familiarize yourself with these services and know how to respond if a student needs assistance.
 
@@ -722,17 +721,17 @@ The following are valuable resources if you learn about or observe concerning st
 
 [Student Counseling and Psychological Services Center](https://scps.auburn.edu/) -- provides mental health counseling for students. Confidential Resource.
 
-# Department of Music Collaborative Pianist Guidelines
+## Department of Music Collaborative Pianist Guidelines
 
 (Revised August 4, 2023)
 
 Unlike many music programs, Auburn provides some accompanying time to its students at the Department of Music's expense. To ensure that this limited resource is utilized in an equitable and professional manner, the Department of Music has adopted the following guidelines:
 
-## Access to Collaborative Piano Services
+### Access to Collaborative Piano Services
 
 The AU Music Department provides collaborative pianists for degree-required recitals, convocation performances, and juries, if student responsibilities are fulfilled (see below).
 
-## Voice Students
+### Voice Students
 
 At the beginning of each semester, but no later than the end of the first week of the semester, voice instructors will submit their applied voice teaching assignments (i.e., name of student, days/times, and complete student schedule) to collaborative pianists. During the second week of the semester collaborative pianists will assign a pianist to each student and inform each voice instructor of the collaborative pianist assignments. Once the assignments are made, the assigned pianist will contact the student (cc:ing the instructor) providing a day/time for weekly rehearsals and instructions for copying and submitting music to the pianist.
 
@@ -742,7 +741,7 @@ The collaborative pianist service for a voice student includes weekly 25-min reh
 
 The collaborative pianist service for voice recitals includes one dress rehearsal: 30 minutes for a BM Junior or BME Recital, 60 minutes for a Senior BM Recital.
 
-## Instrumental Students
+### Instrumental Students
 
 For required convocation performances and juries, 2 total hours of accompanying are included.
 
@@ -750,13 +749,13 @@ For required convocation performances and juries, 2 total hours of accompanying 
 
 The collaborative pianist service for recitals includes rehearsal in preparation for the performance: A BM Junior recital or BME recital includes 1.5 hours of rehearsal, A BM Senior recital includes 2.5 hours of rehearsal. If the recital program is longer than required, the student may be responsible for paying a fee at the discretion of the collaborative pianist.
 
-## All Students
+### All Students
 
 Students may also request collaborative pianist services for non-degree recitals, recordings, and other non- required performances (i.e, other than those specified in the student's curriculum). This includes off- campus performances and competitions. In this case, compensation and scheduling shall be negotiated between the student and the collaborative pianist. The suggested fee for departmental collaborative pianists is \$75/hr.
 
 Departmental collaborative pianists may also be hired, at the student's expense, when departmental hours have been exhausted. In this case, compensation and scheduling shall be negotiated between the student and the collaborative pianist. The suggested fee for departmental collaborative pianists is \$75/hr.
 
-## Student Responsibilities
+### Student Responsibilities
 
 -   Each student requiring collaborative pianist services is expected to complete a **STUDENT PERFORMANCE REQUEST FORM** to ensure accompanists' availability for their given performance. Forms are available on the Music Department homepage and must be sent to the student's applied teacher for online submission to the Auburn Box folder. **Deadline for submission of convocation performance requests is the end of the 2nd week of classes**. In the case of degree recitals, the student should discuss appropriate dates/times of the recital hearing when the recital date is confirmed. **Deadline for scheduling all degree recitals is the 5^th^ day of classes in a semester.**
 
@@ -770,7 +769,7 @@ Departmental collaborative pianists may also be hired, at the student's expense,
 
 -   For rehearsals, it is expected that the student will be familiar with the music and have mastered most of the technical aspects prior to the first rehearsal with the accompanist. While all of the collaborative pianists are proficient sight readers, they should not be expected to sight read in lessons and rehearsals.
 
-## Cancellation Policy
+### Cancellation Policy
 
 24-hour notice should be given by either party unless there is an emergency. Rehearsal time must be compensated in the event of a cancelled or postponed performance.
 
@@ -786,7 +785,7 @@ Ms. Haein Kim <hzk0071@auburn.edu>
 
 Dr. Minjung Seo [mzs0187@auburn.edu](mailto:hzk0071@auburn.edu)
 
-# Conflict Resolution & Code of Ethics
+## Conflict Resolution & Code of Ethics
 
 For the general well-being of the department, it is important that faculty treat students and each other with professionalism and respect. Differences of opinion are inevitable, but our handling of these differences are the key to a healthy working and learning environment. To that end:
 
@@ -798,7 +797,7 @@ For the general well-being of the department, it is important that faculty treat
 
 4.  Music department faculty have created and approved a Code of Ethics, which embody our ideals as professionals. Faculty should be familiar with and abide by the Code of Ethics as listed below:
 
-# Department of Music Code of Ethics
+## Department of Music Code of Ethics
 
 Adopted by Faculty June 17, 2021
 
