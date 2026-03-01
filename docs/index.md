@@ -1,5 +1,6 @@
 ---
 title: "Faculty Handbook 2025-2026"
+lang: en
 ---
 
 
@@ -737,7 +738,7 @@ At the beginning of each semester, but no later than the end of the first week o
 
 The collaborative pianist service for a voice student includes weekly 25-min rehearsal and 25-min lesson accompanying and convo and jury performances. Weekly accompanying service starts on Week 3 of the semester.
 
-*VOICE RECITALS*
+#### Voice Recitals
 
 The collaborative pianist service for voice recitals includes one dress rehearsal: 30 minutes for a BM Junior or BME Recital, 60 minutes for a Senior BM Recital.
 
@@ -745,7 +746,7 @@ The collaborative pianist service for voice recitals includes one dress rehearsa
 
 For required convocation performances and juries, 2 total hours of accompanying are included.
 
-*INSTRUMENTAL RECITALS*
+#### Instrumental Recitals
 
 The collaborative pianist service for recitals includes rehearsal in preparation for the performance: A BM Junior recital or BME recital includes 1.5 hours of rehearsal, A BM Senior recital includes 2.5 hours of rehearsal. If the recital program is longer than required, the student may be responsible for paying a fee at the discretion of the collaborative pianist.
 
