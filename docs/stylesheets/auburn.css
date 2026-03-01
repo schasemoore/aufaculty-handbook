@@ -43,7 +43,7 @@
   --md-default-bg-color--lightest:#444c56;  /* borders */
 
   /* Text — light gray, high contrast on dark gray ✅ */
-  --md-default-fg-color:          #cdd9e5;  /* 10.5:1 on #22272e ✅ */
+  --md-default-fg-color:          #ffffff;  /* white on #22272e = 12.8:1 ✅ */
   --md-default-fg-color--light:   #909dab;
   --md-default-fg-color--lighter: #636e7b;
   --md-default-fg-color--lightest:#3d444d;
@@ -53,11 +53,11 @@
 
   /* Headings */
   --md-typeset-h1-color:          #e86100;
-  --md-typeset-h2-color:          #cdd9e5;
-  --md-typeset-h3-color:          #adbac7;
+  --md-typeset-h2-color:          #ffffff;
+  --md-typeset-h3-color:          #ffffff;
 
   /* Sidebar nav text */
-  --md-nav-item-fg-color:         #cdd9e5;
+  --md-nav-item-fg-color:         #ffffff;
 
   /* Code blocks */
   --md-code-bg-color:             #2d333b;
