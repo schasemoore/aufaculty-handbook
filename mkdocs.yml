@@ -1,9 +1,25 @@
 site_name: Faculty Handbook
+site_description: Auburn University Department of Music Faculty Handbook 2025-2026
+
 theme:
   name: material
   features:
-    - navigation.sections
-    - search.highlight
-    - search.suggest
+    - navigation.sections       # Group nav into sections
+    - navigation.top            # Back-to-top button
+    - navigation.tracking       # URL updates as you scroll
+    - toc.follow                # TOC sidebar follows scroll position
+    - search.highlight          # Highlights search terms on page
+    - search.suggest            # Search autocomplete
+
+markdown_extensions:
+  - toc:
+      permalink: true           # Adds anchor link icon to each heading
+      toc_depth: 3              # Show h1, h2, h3 in the TOC sidebar
+  - attr_list
+  - md_in_html
+
 plugins:
   - search
+
+nav:
+  - Home: faculty-handbook.md
