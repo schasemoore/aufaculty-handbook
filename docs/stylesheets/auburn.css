@@ -1,0 +1,68 @@
+/* ============================================================
+   Auburn University Brand Colors
+   Navy:   #0b2341
+   Orange: #e86100
+
+   WCAG notes:
+   - Navy (#0b2341) on white = 15.78:1 → passes AA + AAA
+   - Orange (#e86100) on navy = 4.61:1 → passes AA (used for nav accents)
+   - Orange (#e86100) on dark bg = 5.09:1 → passes AA (dark mode links/accents)
+   - Orange on white = 3.42:1 → passes AA for large text/UI only
+     so orange is used for headings & nav, NOT small body text links
+   ============================================================ */
+
+/* ── LIGHT MODE ─────────────────────────────────────────── */
+[data-md-color-scheme="auburn-light"] {
+
+  /* Header and nav background */
+  --md-primary-fg-color:          #0b2341;
+  --md-primary-fg-color--light:   #1a3a5c;
+  --md-primary-fg-color--dark:    #06162a;
+  --md-primary-bg-color:          #ffffff;  /* text on navy = white */
+
+  /* Orange accent — used for nav highlights, buttons, active states */
+  --md-accent-fg-color:           #e86100;
+  --md-accent-fg-color--transparent: rgba(232, 97, 0, 0.1);
+
+  /* Links: navy on white = 15.78:1, fully AA compliant for body text */
+  --md-typeset-a-color:           #0b2341;
+
+  /* Headings in orange — large text, passes AA at 3.42:1 on white */
+  --md-typeset-h1-color:          #e86100;
+  --md-typeset-h2-color:          #0b2341;
+  --md-typeset-h3-color:          #0b2341;
+}
+
+/* ── DARK MODE ──────────────────────────────────────────── */
+[data-md-color-scheme="auburn-dark"] {
+
+  /* Keep navy header in dark mode */
+  --md-primary-fg-color:          #0b2341;
+  --md-primary-fg-color--light:   #1a3a5c;
+  --md-primary-fg-color--dark:    #06162a;
+  --md-primary-bg-color:          #ffffff;
+
+  /* Orange on dark backgrounds passes AA (5.09:1) — use freely */
+  --md-accent-fg-color:           #e86100;
+  --md-accent-fg-color--transparent: rgba(232, 97, 0, 0.15);
+
+  /* Dark page backgrounds */
+  --md-default-bg-color:          #0d1b2a;
+  --md-default-fg-color:          #e8edf2;
+  --md-default-fg-color--light:   #a8b4c0;
+  --md-default-fg-color--lighter: #5a6a7a;
+  --md-default-fg-color--lightest: #2a3a4a;
+
+  /* Links: orange on dark bg = 5.09:1, fully AA compliant */
+  --md-typeset-a-color:           #e86100;
+
+  /* Headings */
+  --md-typeset-h1-color:          #e86100;
+  --md-typeset-h2-color:          #c8d8e8;
+  --md-typeset-h3-color:          #a8b8c8;
+
+  /* Code and footer */
+  --md-code-bg-color:             #162032;
+  --md-footer-bg-color:           #06111e;
+  --md-footer-bg-color--dark:     #040d18;
+}
