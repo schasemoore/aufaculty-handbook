@@ -1,0 +1,9 @@
+site_name: Faculty Handbook
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+plugins:
+  - search
