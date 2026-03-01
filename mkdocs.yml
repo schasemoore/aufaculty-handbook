@@ -8,6 +8,7 @@ theme:
     - navigation.top            # Back-to-top button
     - navigation.tracking       # URL updates as you scroll
     - toc.follow                # TOC sidebar follows scroll position
+    - toc.integrate             # Integrates TOC into left navigation sidebar
     - search.highlight          # Highlights search terms on page
     - search.suggest            # Search autocomplete
 
