@@ -20,6 +20,3 @@ markdown_extensions:
 
 plugins:
   - search
-
-nav:
-  - Home: faculty-handbook.md
