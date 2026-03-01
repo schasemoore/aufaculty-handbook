@@ -4,54 +4,6 @@ title: "Faculty Handbook 2025-2026"
 
 # Auburn University Department of Music — Faculty Handbook 2025–2026
 
-## Table of Contents
-
-- [Department of Music Policy and Procedures](#department-of-music-policy-and-procedures)
-  - [Departmental Mission](#departmental-mission)
-  - [Provision for Amending Policy and Procedure Document](#provision-for-amending-policy-and-procedure-document)
-  - [Code of Ethics](#code-of-ethics)
-  - [Faculty Governance](#faculty-governance)
-  - [Administration and Administrative Service Appointments](#administration-and-administrative-service-appointments)
-  - [Committees](#committees)
-  - [Auditions, Juries, Exams, and Events](#auditions-juries-exams-and-events)
-  - [Appointment](#appointment)
-  - [Promotion](#promotion)
-  - [Tenure](#tenure)
-  - [Evaluation of Faculty](#evaluation-of-faculty)
-  - [Assignment of Duties](#assignment-of-duties)
-- [Department of Music Bylaws](#department-of-music-bylaws)
-  - [Introduction](#introduction)
-  - [A. Faculty](#a-faculty)
-  - [B. Department Chair](#b-department-chair)
-  - [C. Departmental Committees](#c-departmental-committees)
-  - [D. Faculty Meetings](#d-faculty-meetings)
-  - [E. Approval of Or Changes to the Bylaws](#e-approval-of-or-changes-to-the-bylaws)
-- [Additional Departmental Procedures](#additional-departmental-procedures)
-  - [Faculty Travel](#faculty-travel)
-  - [Purchasing Procedures](#purchasing-procedures)
-  - [Scheduling a Guest Artist/Clinician](#scheduling-a-guest-artistclinician)
-  - [Hosting an event involving minors (as participants)](#hosting-an-event-involving-minors-as-participants)
-  - [Interactions with Parents -- FERPA (Family Educational Rights and Privacy Act)](#interactions-with-parents-ferpa-family-educational-rights-and-privacy-act)
-- [Safety, Health and Wellness Resources](#safety-health-and-wellness-resources)
-  - [Campus Security](#campus-security)
-  - [City of Auburn Public Safety](#city-of-auburn-public-safety)
-  - [Comprehensive listing of resources for Faculty, Staff, & Students](#comprehensive-listing-of-resources-for-faculty-staff-students)
-  - [AU Medical Clinic](#au-medical-clinic)
-  - [Healthy Tigers](#healthy-tigers)
-  - [Recreation and Wellness](#recreation-and-wellness)
-  - [Students in Distress](#students-in-distress)
-- [Department of Music Collaborative Pianist Guidelines](#department-of-music-collaborative-pianist-guidelines)
-  - [Access to Collaborative Piano Services](#access-to-collaborative-piano-services)
-  - [Voice Students](#voice-students)
-  - [Instrumental Students](#instrumental-students)
-  - [All Students](#all-students)
-  - [Student Responsibilities](#student-responsibilities)
-  - [Cancellation Policy](#cancellation-policy)
-- [Conflict Resolution & Code of Ethics](#conflict-resolution-code-of-ethics)
-- [Department of Music Code of Ethics](#department-of-music-code-of-ethics)
-
----
-
 # Department of Music Policy and Procedures
 
 Adopted by Faculty June 17, 2021
